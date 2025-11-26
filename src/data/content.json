@@ -1,0 +1,237 @@
+{
+    "hero": {
+        "tagline": "Delicious Frozen Snacks, Ready in Minutes",
+        "subtitle": "Premium quality frozen food delivered fresh to your doorstep",
+        "cta": {
+            "primary": "View Products",
+            "secondary": "Contact Us"
+        }
+    },
+    "about": {
+        "title": "Why Choose Crispy Bites?",
+        "story": "At Crispy Bites, we believe that great food shouldn't take hours to prepare. Our premium frozen snacks bring authentic flavors and restaurant-quality taste to your home in just minutes.",
+        "features": [
+            {
+                "title": "Premium Quality",
+                "description": "Made with the finest ingredients and traditional recipes",
+                "icon": "award"
+            },
+            {
+                "title": "100% Halal",
+                "description": "All our products are certified halal",
+                "icon": "check-circle"
+            },
+            {
+                "title": "Quick & Easy",
+                "description": "Ready to serve in minutes - perfect for busy lifestyles",
+                "icon": "clock"
+            },
+            {
+                "title": "Fresh Frozen",
+                "description": "Flash-frozen to lock in freshness and flavor",
+                "icon": "snowflake"
+            }
+        ]
+    },
+    "products": [
+        {
+            "id": "1",
+            "name": "Chicken Samosa",
+            "category": "Samosas",
+            "price": "Rs. 450/dozen",
+            "image": "/images/chicken-samosa.jpg",
+            "description": "Crispy golden samosas filled with tender spiced chicken and aromatic herbs.",
+            "features": [
+                "Halal",
+                "Ready in 15 mins",
+                "Party Pack Available"
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Vegetable Samosa",
+            "category": "Samosas",
+            "price": "Rs. 350/dozen",
+            "image": "/images/veg-samosa.jpg",
+            "description": "Classic vegetable samosas with potatoes, peas, and traditional spices.",
+            "features": [
+                "Vegetarian",
+                "Ready in 15 mins",
+                "Family Favorite"
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Beef Samosa",
+            "category": "Samosas",
+            "price": "Rs. 500/dozen",
+            "image": "/images/beef-samosa.jpg",
+            "description": "Hearty samosas filled with seasoned ground beef and onions.",
+            "features": [
+                "Halal",
+                "Ready in 15 mins",
+                "Premium Quality"
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Chicken Seekh Kebab",
+            "category": "Kebabs",
+            "price": "Rs. 800/kg",
+            "image": "/images/chicken-kebab.jpg",
+            "description": "Succulent chicken kebabs marinated in traditional spices, perfect for grilling.",
+            "features": [
+                "Halal",
+                "BBQ Ready",
+                "Restaurant Quality"
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Beef Seekh Kebab",
+            "category": "Kebabs",
+            "price": "Rs. 900/kg",
+            "image": "/images/beef-kebab.jpg",
+            "description": "Premium beef kebabs with authentic Pakistani spices and herbs.",
+            "features": [
+                "Halal",
+                "BBQ Ready",
+                "Chef's Special"
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Chicken Cutlets",
+            "category": "Cutlets",
+            "price": "Rs. 600/dozen",
+            "image": "/images/chicken-cutlet.jpg",
+            "description": "Crispy breaded chicken cutlets, perfect as a snack or main course.",
+            "features": [
+                "Halal",
+                "Ready in 10 mins",
+                "Kids Favorite"
+            ]
+        },
+        {
+            "id": "7",
+            "name": "Vegetable Cutlets",
+            "category": "Cutlets",
+            "price": "Rs. 450/dozen",
+            "image": "/images/veg-cutlet.jpg",
+            "description": "Golden-fried vegetable cutlets with a medley of fresh vegetables.",
+            "features": [
+                "Vegetarian",
+                "Ready in 10 mins",
+                "Healthy Choice"
+            ]
+        },
+        {
+            "id": "8",
+            "name": "Chicken Spring Rolls",
+            "category": "Rolls",
+            "price": "Rs. 550/dozen",
+            "image": "/images/spring-roll.jpg",
+            "description": "Crispy spring rolls filled with seasoned chicken and vegetables.",
+            "features": [
+                "Halal",
+                "Ready in 12 mins",
+                "Party Favorite"
+            ]
+        },
+        {
+            "id": "9",
+            "name": "Chicken Nuggets",
+            "category": "Nuggets",
+            "price": "Rs. 700/kg",
+            "image": "/images/nuggets.jpg",
+            "description": "Tender chicken nuggets with a crispy coating - perfect for kids and adults alike.",
+            "features": [
+                "Halal",
+                "Ready in 8 mins",
+                "Family Pack"
+            ]
+        },
+        {
+            "id": "10",
+            "name": "Mixed Pickle (Achaar)",
+            "category": "Achaar",
+            "price": "Rs. 400/jar",
+            "image": "/images/achaar.jpg",
+            "description": "Traditional Pakistani mixed pickle with authentic spices and tangy flavor.",
+            "features": [
+                "Homemade Style",
+                "Long Shelf Life",
+                "No Preservatives"
+            ]
+        },
+        {
+            "id": "11",
+            "name": "Mango Pickle (Achaar)",
+            "category": "Achaar",
+            "price": "Rs. 450/jar",
+            "image": "/images/mango-achaar.jpg",
+            "description": "Spicy and tangy mango pickle made with traditional family recipe.",
+            "features": [
+                "Homemade Style",
+                "Premium Mangoes",
+                "Authentic Taste"
+            ]
+        },
+        {
+            "id": "12",
+            "name": "Chicken Shami Kebab",
+            "category": "Kebabs",
+            "price": "Rs. 750/dozen",
+            "image": "/images/shami-kebab.jpg",
+            "description": "Soft and flavorful shami kebabs made with minced chicken and lentils.",
+            "features": [
+                "Halal",
+                "Ready in 10 mins",
+                "Traditional Recipe"
+            ]
+        }
+    ],
+    "contact": {
+        "phone": "+92-300-1234567",
+        "email": "contact@crispybites.com",
+        "whatsapp": "+923001234567",
+        "address": "Karachi, Pakistan",
+        "hours": "Mon-Sat: 9:00 AM - 8:00 PM"
+    },
+    "footer": {
+        "tagline": "Bringing authentic flavors to your home",
+        "quickLinks": [
+            {
+                "label": "Home",
+                "href": "#hero"
+            },
+            {
+                "label": "About",
+                "href": "#about"
+            },
+            {
+                "label": "Products",
+                "href": "#products"
+            },
+            {
+                "label": "Contact",
+                "href": "#contact"
+            }
+        ],
+        "social": [
+            {
+                "platform": "facebook",
+                "url": "https://facebook.com/crispybites"
+            },
+            {
+                "platform": "instagram",
+                "url": "https://instagram.com/crispybites"
+            },
+            {
+                "platform": "twitter",
+                "url": "https://twitter.com/crispybites"
+            }
+        ],
+        "copyright": "© 2025 Crispy Bites. All rights reserved."
+    }
+}
